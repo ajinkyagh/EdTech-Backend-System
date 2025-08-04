@@ -1,5 +1,5 @@
 
-# EdTech Backend System**
+# EdTech Backend System
 
 ## Overview**
 This project is a backend system for an EdTech platform, built with Python. It provides core functionalities for managing users, courses, and learning activities. The system is designed with an object-oriented approach, making it modular and scalable for future enhancements like database integration or API endpoints.
