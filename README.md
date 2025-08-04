@@ -1,7 +1,7 @@
 
 # EdTech Backend System
 
-## Overview**
+## Overview
 This project is a backend system for an EdTech platform, built with Python. It provides core functionalities for managing users, courses, and learning activities. The system is designed with an object-oriented approach, making it modular and scalable for future enhancements like database integration or API endpoints.
 
 ## Features
@@ -22,7 +22,7 @@ This project is a backend system for an EdTech platform, built with Python. It p
 * Paradigm: Object-Oriented Programming (OOP)
 * Tools: Jupyter/Colab for development
 
-## System Design**
+## System Design
 The application follows an object-oriented design pattern:
 * User: Base class for all users
 * Learner: Extends `User`, adds enrollment and course management
@@ -32,7 +32,7 @@ The application follows an object-oriented design pattern:
 
 This modular design makes it easy to integrate with databases, REST APIs, or front-end systems in the future.
 
-## How to Run**
+## How to Run
 
 1. Clone the repository:
 
@@ -60,7 +60,7 @@ learner.enroll_in_course("CS101")
 learner.update_email("alice_new@example.com")
 ```
 
-## What I Learned**
+## What I Learned
 
 * Object-Oriented Design:** Implemented inheritance and encapsulation for reusable components.
 * Data Validation:** Built secure input handling for user credentials.
