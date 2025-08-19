@@ -132,6 +132,3 @@ This project demonstrates:
 * Practical application of **Python for backend development**
 * Readiness to extend projects into **production-grade applications**
 
----
-
-Would you like me to also **add a “Projects Index” section at the bottom** of this README (linking to your other repos like *Medalyze*, *HR Dashboard*, *Goodwill Dashboard*) so anyone visiting your GitHub sees a curated portfolio instead of just a single project?
